@@ -1,1 +1,27 @@
 # university-projects
+
+These are the assignments, projects and lectures that I did during my education as graduate student of Artificial Intelligence at CE@STU
+
+|Notebook|Concepts|Packages|Description|
+|---|---|---|---|
+|[preliminaries.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/preliminaries.ipynb)|Preliminaries & Numpy|Numpy, Scikit-Learn|Deep Learning course assignment|
+|[batchnorm-and-dropout.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/batchnorm-and-dropout.ipynb)|Batch Normalization & Dropout|Numpy|Deep Learning course assignment|
+|[CIFAR10-classification.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/CIFAR10-classification.ipynb)|Classification using Neural Net|PyTorch|Deep Learning course assignment|
+|[FashionMNIST-CNN.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/FashionMNIST-CNN.ipynb)|CNN and Data Augmentation|PyTorch|Deep Learning course assignment|
+|[CIFAR10-ResidualNet.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/CIFAR10-ResidualNet.ipynb)|Residual network architecture|PyTorch|Deep Learning course assignment|
+|[Pedestrian-dataset-instance-segmentation.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/Pedestrian-dataset-instance-segmentation.ipynb)|Finetuning Mask R-CNN for Instance Segmentation|PyTorch|Deep Learning course assignment|
+|language-model-{[1](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/language-model-1.ipynb),[2](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/language-model-2.ipynb)}.ipynb|Working with text data and RNNs|PyTorch, NLTK|Deep Learning course assignment|
+|[neural-machine-translation.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/neural-machine-translation.ipynb)|Neural Machine Translation using Seq2Seq RNN with Attention|PyTorch|Deep Learning course assignment|
+|[GAN.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/GAN.ipynb)|Generative Adversarial Networks|PyTorch|Deep Learning course assignment|
+|[VAE.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/VAE.ipynb)|Variational Autoencoder|PyTorch|Deep Learning course assignment|
+|[RL-actor-critic.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/RL-actor-critic.ipynb)|Reinforcement Learning with Actor-Critic algorithm|PyTorch, Gym|Deep Learning course assignment|
+|[Q-learning.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/Q-learning.ipynb)|Q-Learning using DNN|PyTorch, Gym|Deep Learning course assignment|
+|[RL-policy-gradient.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/RL-policy-gradient.ipynb)|Reinforcement Learning with Policy Gradient|PyTorch|Deep Learning course assignment|
+|COCO-image-captioning-{[1](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/COCO-image-captioning-1.ipynb),[2](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/COCO-image-captioning-2.ipynb)}.ipynb|Image Captioning using VGG, BERT as embedding layer and Attention (in 2)|PyTorch, Transformers, NLTK|Deep Learning course final project|
+|[Clustering.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/Clustering.ipynb)|Clustering Bio data(Gene expression profiles)|Scikit-Learn, Scvi, Scanpy, Numpy|My lecture in Machine Learning for BioInformatics course as teaching assistant|
+|[Ensemble-learning.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/Ensemble-learning.ipynb)|Applying Ensemble Learning on Bio data(Obsessive Psychiatric Syndrome Gene expression profiles)|Scikit-Learn, Numpy, GEOparse|My lecture in Machine Learning for BioInformatics course as teaching assistant|
+|[neuron-group-simulation-with-DE.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/neuron-group-simulation-with-DE.ipynb)|Simulating Neuron group activity using differential equations|brian2|Neuroscience course assignment|
+|[hodgkin-huxely-excitatory-inhibitory-simulation.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/hodgkin-huxely-excitatory-inhibitory-simulation.ipynb)|Simulating Hodgkin-Huxely Excitatory-Inhibitory neural networks|brian2, Numpy|Neuroscience course assignment|
+|[excitatory-and-inhibitory-neuron-groups.ipynb](https://colab.research.google.com/github/sadra-barikbin/university-projects/blob/main/excitatory-and-inhibitory-neuron-groups.ipynb)|Simulating Excitatory and Inhibitory neuron groups activity|brian2, Numpy|Neuroscience course assignment|
+
+[Deep Learning course](http://ce.sharif.edu/courses/98-99/2/ce719-1/index.php) was instructed in spring 2020 by [Dr. Soleymani](http://sharif.edu/~soleymani/) at CE@STU. Neuroscience course was instructed in Fall 2020 by Dr. Karbalai Aghajan at EE@STU. Finally [Machine Learning for BioInformatics](http://ce.sharif.edu/courses/99-00/2/ce550-1/index.php) course was instructed in spring 2021 by Dr. Soleymani and [Dr. Sharifi Zarchi](https://scholar.google.com/citations?user=GbJMZLIAAAAJ&hl=en) at CE@STU.
